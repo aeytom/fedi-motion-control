@@ -1,7 +1,7 @@
-github.com/aeytom/fedilib v0.0.0-20240716135746-b109d4213816 h1:Nm7hVuEhw8wRBBfB4kdYOs0LBwwFcp1VfhLW4fUfQ9w=
-github.com/aeytom/fedilib v0.0.0-20240716135746-b109d4213816/go.mod h1:t7qjio4TIEaIaAm1wJyyLyIXN5Fg404RyyWyj8Ni4zA=
 github.com/aeytom/fedilib v0.1.0 h1:mmBx4s348hGi3zH6FK/lMmcNJszYAC892MWUr8j5N7Y=
 github.com/aeytom/fedilib v0.1.0/go.mod h1:t7qjio4TIEaIaAm1wJyyLyIXN5Fg404RyyWyj8Ni4zA=
+github.com/aeytom/fedilib v0.1.1 h1:HOcm0Qpaxv3pVnGFL+I3+c+D8Z0FSgJ6z7fFX5pF4zg=
+github.com/aeytom/fedilib v0.1.1/go.mod h1:t7qjio4TIEaIaAm1wJyyLyIXN5Fg404RyyWyj8Ni4zA=
 github.com/gorilla/websocket v1.5.3 h1:saDtZ6Pbx/0u+bgYQ3q96pZgCzfhKXGPqt7kZ72aNNg=
 github.com/gorilla/websocket v1.5.3/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
 github.com/mattn/go-mastodon v0.0.8 h1:UgKs4SmQ5JeawxMIPP7NQ9xncmOXA+5q6jYk4erR7vk=
